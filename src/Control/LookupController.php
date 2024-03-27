@@ -1,8 +1,8 @@
 <?php
 
-namespace Somar\NZBN\Control;
+namespace SilverStripe\NZBN\Control;
 
-use Somar\NZBN\Service\LookupService;
+use SilverStripe\NZBN\Service\LookupService;
 use SilverStripe\Control\Controller;
 use SilverStripe\Control\HTTPRequest;
 use SilverStripe\Control\HTTPResponse;

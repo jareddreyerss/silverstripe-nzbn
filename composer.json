@@ -1,5 +1,5 @@
 {
-    "name": "somardesignstudios/silverstripe-nzbn",
+    "name": "silverstripe/silverstripe-nzbn",
     "description": "SilverStripe module for adding a NZBN lookup field.",
     "type": "silverstripe-vendormodule",
     "keywords": [
@@ -27,8 +27,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Somar\\NZBN\\": "src/",
-            "Somar\\NZBN\\Tests\\": "tests/"
+            "SilverStripe\\NZBN\\": "src/",
+            "SilverStripe\\NZBN\\Tests\\": "tests/"
         }
     },
     "suggest": {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Somar\NZBN\Model;
+namespace SilverStripe\NZBN\Model;
 
 use SilverStripe\Core\Convert;
 use SilverStripe\ORM\DataObject;

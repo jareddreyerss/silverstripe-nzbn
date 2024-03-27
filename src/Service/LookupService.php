@@ -1,6 +1,6 @@
 <?php
 
-namespace Somar\NZBN\Service;
+namespace SilverStripe\NZBN\Service;
 
 use SilverStripe\Core\Config\Configurable;
 

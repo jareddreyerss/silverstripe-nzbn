@@ -1,6 +1,6 @@
 <?php
 
-namespace Somar\NZBN\Model;
+namespace SilverStripe\NZBN\Model;
 
 use SilverStripe\Forms\TextField;
 use SilverStripe\UserForms\Model\EditableFormField\EditableTextField;

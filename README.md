@@ -16,16 +16,16 @@ For a CMS user to add the NZBN lookup field, you need to have SilverStripe User 
 ## Installation
 
 ```sh
-$ composer require somar/silverstripe-nzbn
+$ composer require silverstripe/silverstripe-nzbn
 ```
 
 ## Configuration
 **mysite/\_config/nzbn.yml**
 ```yml
-Somar\NZBN\Model\LookupField:
+SilverStripe\NZBN\Model\LookupField:
   button_text: 'Search'
 
-Somar\NZBN\Service\LookupService:
+SilverStripe\NZBN\Service\LookupService:
   # url: 'https://sandbox.api.business.govt.nz/services/v3/nzbn'
   access_token: 'YOUR ACCESS TOKEN'
 ```

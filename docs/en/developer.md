@@ -2,7 +2,7 @@
 
 A NZBN lookup field can be added to a form by a developer in PHP.
 
-### Somar\NZBN\LookupField
+### SilverStripe\NZBN\LookupField
 The LookupField can be added like any other form field to a form. It takes a mandatory third argument which is a map of form fields to pre-populate.
 
 ```php
